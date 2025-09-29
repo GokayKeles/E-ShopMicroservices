@@ -24,3 +24,4 @@ public class GetProductByCategoryEndpoint : ICarterModule
         .WithDescription("Get Product By Category");
     }
 }
+            
